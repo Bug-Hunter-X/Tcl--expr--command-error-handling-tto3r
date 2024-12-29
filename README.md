@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script that demonstrates a common error when using the [expr] command. The script takes two inputs, adds them, and returns the sum. However, if either input is not a valid number, it throws an error. The solution shows how to handle this error with proper error checking and exception handling.
